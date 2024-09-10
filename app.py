@@ -6,7 +6,6 @@ restaurant_lolita = Restaurant('lolita', 'francês')
 restaurant_doce_cabana = Restaurant('doce cabana', 'argentino')
 restaurant_mineiro_de_comer = Restaurant('mineiro de comer', 'brasileiro')
 
-
 def clear_menu():
     os.system('cls')
 

@@ -56,8 +56,6 @@ class Restaurant:  # Cria uma classe do objeto Restaurante
 
         return restaurant_found
 
-    # Método próprio para ATIVAR ou DESATIVAR restaurante somente por chamada da função apontando a variável instanciada
-    def change_status(self):
         self._active = not self._active
 
     # Método próprio para buscar restaurante e armazenar um dicionário na variável restaurant._review com os dados individuais de cada avaliação por cliente
