@@ -134,12 +134,12 @@ def menu():
 
     print('\n🅼 🅴 🅽 🆄\n')
     menu_options = [
-        '[1] Cadastrar restaurante',
-        '[2] Listar restaurantes',
-        '[3] Alternar situação do restaurante',
-        '[4] Avaliar restaurante',
-        '[5] Listar avaliações do restaurante por cliente',
-        '[6] Sair'
+        ' [1] Cadastrar restaurante',
+        ' [2] Listar restaurantes',
+        ' [3] Alternar situação do restaurante',
+        ' [4] Avaliar restaurante',
+        ' [5] Listar avaliações do restaurante por cliente',
+        ' [6] Sair'
     ]
 
     for option in menu_options:
